@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/HeadphonesStore/static/css/main.26fb92f1.chunk.css",
-    "main.js": "/HeadphonesStore/static/js/main.af50f635.chunk.js",
-    "main.js.map": "/HeadphonesStore/static/js/main.af50f635.chunk.js.map",
+    "main.css": "/HeadphonesStore/static/css/main.339c7233.chunk.css",
+    "main.js": "/HeadphonesStore/static/js/main.d1078ef8.chunk.js",
+    "main.js.map": "/HeadphonesStore/static/js/main.d1078ef8.chunk.js.map",
     "runtime-main.js": "/HeadphonesStore/static/js/runtime-main.7a007e20.js",
     "runtime-main.js.map": "/HeadphonesStore/static/js/runtime-main.7a007e20.js.map",
     "static/js/2.d9658841.chunk.js": "/HeadphonesStore/static/js/2.d9658841.chunk.js",
     "static/js/2.d9658841.chunk.js.map": "/HeadphonesStore/static/js/2.d9658841.chunk.js.map",
     "index.html": "/HeadphonesStore/index.html",
-    "static/css/main.26fb92f1.chunk.css.map": "/HeadphonesStore/static/css/main.26fb92f1.chunk.css.map",
+    "static/css/main.339c7233.chunk.css.map": "/HeadphonesStore/static/css/main.339c7233.chunk.css.map",
     "static/js/2.d9658841.chunk.js.LICENSE.txt": "/HeadphonesStore/static/js/2.d9658841.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7a007e20.js",
     "static/js/2.d9658841.chunk.js",
-    "static/css/main.26fb92f1.chunk.css",
-    "static/js/main.af50f635.chunk.js"
+    "static/css/main.339c7233.chunk.css",
+    "static/js/main.d1078ef8.chunk.js"
   ]
 }
